@@ -488,6 +488,10 @@ hr {
     margin-left: auto;
     width: auto;
     margin: auto; }
+  .blogcontainer {
+    width: 90%;
+    background: #fff;
+    margin: auto; }
   .blogcontainer img {
     width: 90%;
     margin: auto;
