@@ -188,7 +188,7 @@ body {
   background-size: 100% 2px; }
 
 .blogcontainer {
-  width: 100%;
+  width: auto;
   background: #fff;
   margin: auto; }
 
