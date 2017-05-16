@@ -472,6 +472,7 @@ hr {
     transform: translateZ(0);
     height: auto; }
   .card img {
+    width: auto;
     padding-top: 0px;
     border-radius: 8px 8px 0px 0px; }
   .footer {
