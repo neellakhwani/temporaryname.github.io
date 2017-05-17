@@ -116,7 +116,8 @@ a {
   color: #FF6E0F; }
 
 body {
-  background: #e2e9ec;
+  background-image: url("../../assets/img/bgnoise.png");
+  background-color: #e2e9ec;
   margin: 0px; }
 
 .header-home2 {
