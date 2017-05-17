@@ -195,7 +195,7 @@ body {
   z-index: 0; }
 
 .card {
-  border-radius: 9px;
+  border-radius: 4px;
   background: #fff;
   display: inline-block;
   position: relative;
@@ -225,7 +225,7 @@ body {
 
 .card img {
   padding-top: 0px;
-  border-radius: 8px 8px 0px 0px; }
+  border-radius: 5px 5px 0px 0px; }
 
 .txt {
   width: 220px;
@@ -450,7 +450,6 @@ hr {
   .header-fixed a {
     text-decoration: underline; }
   .card {
-    border-radius: 9px;
     background: #fff;
     display: inline-block;
     position: relative;
